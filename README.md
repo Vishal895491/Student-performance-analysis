@@ -12,7 +12,7 @@ Analyze student performance data to identify trends and improve academic outcome
 - Dashboard
 
 ## Dataset
-- Student marks, gender, study hours, subject-wise scores
+- Student marks, subject-wise scores , 
 
 ## Key Analysis
 - Pass vs Fail analysis
@@ -24,5 +24,4 @@ Analyze student performance data to identify trends and improve academic outcome
    <img width="1470" height="736" alt="student performance dashboard" src="https://github.com/user-attachments/assets/e3624332-6a57-4cd6-868b-6ff24f235dfa" />
  
 
-## Outcome
-Generated actionable insights to support academic decision-making.
+
